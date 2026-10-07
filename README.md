@@ -1,4 +1,4 @@
 # Packet-Tracer
-Ciscos packet tracer excercises
+Filerna vi jobbar med är de som heter TestX. Se om man kan lösa felet.
 
-Träna på packet tracker och träna på Git. 
+Test 1. PC0 kan inte pinga filservern? Använd inte AI.
